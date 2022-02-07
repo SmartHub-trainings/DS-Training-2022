@@ -1,0 +1,5 @@
+a=input()
+b=input()
+#c=int(a)+int(b)
+c=float(a)+float(b)
+print(c)
